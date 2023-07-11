@@ -10,18 +10,16 @@ I am Kashif Rabbani.
 
 ## Research Work
 
+My research work along with publications' details is available on [kashif-rabbani.github.io](https://github.com/Kashif-Rabbani/Kashif-Rabbani.github.io)
+
 #### Query Optimization
-1. [Sparql Query Optimization using Shape Statistics](https://github.com/Kashif-Rabbani/sparql-optimization)
-2. [RDFShapes - PR ](https://github.com/Kashif-Rabbani/RDFShapes)
+1. [Sparql Query Optimization using Shape Statistics](https://github.com/dkw-aau/sparql-optimization)
 
 
 #### Shapes Extraction
-1. [shacl - PR](https://github.com/Kashif-Rabbani/shacl)
-2. [poster paper](https://github.com/Kashif-Rabbani/validatingshapes)
-
-
-#### Polystore
-- [Hybrid Query Processing - PR ](https://github.com/Kashif-Rabbani/polystore)
+1. [Shapes Extraction Survey](https://github.com/dkw-aau/validatingshapes)
+2. [Quality Shapes Extraction (QSE)](https://github.com/dkw-aau/qse/)
+3. [SHACTOR: A system to extract reliable shapes from large knowledge graphs](https://github.com/dkw-aau/demo-shactor)
 
 
 #### BDMA 
