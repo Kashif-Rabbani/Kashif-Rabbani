@@ -2,9 +2,8 @@
 
 I am Kashif Rabbani. 
 
-- 🔭 I’m a PhD Fellow. 
 - 🌱 My research is about query processing in large graphs and databases. 
-- 📫 You can reach out to me via my personal website http://kashif-rabbani.github.io
+- 📫 Know more about me at http://kashif-rabbani.github.io
 
 
 
