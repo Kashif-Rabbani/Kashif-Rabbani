@@ -2,9 +2,7 @@
 
 I am Kashif Rabbani. AI Research Engineer having PhD in Computer Science.
 
-- 🌱 My research is about query processing in large graphs and databases. 
 - 📫 Know more about me at http://kashif-rabbani.github.io
-
 
 
 ## Research Work
